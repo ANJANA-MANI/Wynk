@@ -1,0 +1,15 @@
+.flinkk a{
+color:white;
+padding: 1px;
+}
+.app img{
+    
+    width:120px;
+    height:130px;
+}
+.appdiv{
+    padding-left: 50px;
+    padding-right: 50px;
+    height: fit-content;
+    
+}
